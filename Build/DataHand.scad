@@ -18,7 +18,7 @@
   length_pinky_metacarpal  = 59; //mm
 
   //Proximal Phalanges Length: Dorsal side knuckle to proximal-middle interphalangeal joint  
-  length_thumb_proximal  = 35; //mm
+  length_thumb_proximal  = 40; //mm
   length_index_proximal  = 47; //mm
   length_middle_proximal = 52; //mm
   length_ring_proximal   = 45; //mm
